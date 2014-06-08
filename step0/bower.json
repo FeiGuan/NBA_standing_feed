@@ -1,0 +1,13 @@
+{
+  "name": "NBA_standing_seed",
+  "description": "View NBA standing",
+  "version": "0.0.0",
+  "homepage": "https://github.com/FeiGuan/NBA_standing_feed",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.2.x",
+    "angular-mocks": "~1.2.x",
+    "bootstrap": "~3.1.1"
+  }
+}
