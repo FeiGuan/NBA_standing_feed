@@ -9,6 +9,7 @@
 	* partials/   (html segments)
 	* teams/	(static team info in json)
 	* index.html  (the main page)
+* test/   (unit test files)
 * bower.json
 * package.json
 * .bowerrc  (specifies the bower-components location)<br />
