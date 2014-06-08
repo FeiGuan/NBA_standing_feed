@@ -11,4 +11,10 @@
 	* index.html  (the main page)
 * bower.json
 * package.json
-* .bowerrc  (specifies the bower-components location)
+* .bowerrc  (specifies the bower-components location)<br />
+
+After creating files, run:
+```shell
+npm install
+```
+to install all dependent modules and bower components
