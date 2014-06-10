@@ -1,3 +1,16 @@
 tmp
 node_modules/
 bower_components/
+.class
+resources/
+war/resources/
+
+*.jar
+*.war
+
+*.cache.html
+/lib
+.settings/
+war/WEB-INF/appengine-generated
+war/WEB-INF/classes
+war/WEB-INF/lib
